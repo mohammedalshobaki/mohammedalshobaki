@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alshobaki</h1>
 <h3 align="center">A passionate Backend developer from Jordan</h3>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **AWS Services**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
